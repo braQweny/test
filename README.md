@@ -1,1 +1,2 @@
+# validate-types
 //info

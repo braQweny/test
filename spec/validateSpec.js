@@ -27,7 +27,7 @@ describe("validate types", function() {
 	it("regexp", function() {
 		expect(APP.validate.toType(/\s/g)).toEqual('regexp');
 	});
-		it("object", function() {
+	it("object", function() {
 		expect(APP.validate.toType({})).toEqual('object');
 	});
 });

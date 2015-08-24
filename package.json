@@ -1,0 +1,22 @@
+{
+  "name": "validate-types",
+  "version": "1.0.0",
+  "description": "simple function to validate types of variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braQweny/test-validate-types.git"
+  },
+  "author": "Paweł Formela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braQweny/test-validate-types/issues"
+  },
+  "homepage": "https://github.com/braQweny/test-validate-types#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}

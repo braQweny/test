@@ -1,4 +1,4 @@
-require('../scripts/validate.js');
+require('../../scripts/validate.js');
 describe("validate types", function() {
     it("number", function() {
         expect(APP.validate.toType(123)).toEqual('number');

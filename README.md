@@ -4,8 +4,9 @@ simple function to validate types of variables
 APP.validate.toType(123) ==> "number"
 ## run test:
 ```
+npm install jasmine-node -g
 cd "absolute path of project's folder"
-npm install jasmine-node -g and type jasmine-node test/
+type jasmine-node test/
 ```
 OR 
 ```

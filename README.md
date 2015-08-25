@@ -1,8 +1,8 @@
-# validate-types
+# Validate-types
 simple function to validate types of variables
-## example:
-APP.validate.toType(123) ==> "number"
-## run test:
+## Example:
+`VALIDATE.toType(123) ==> "number"`
+## Run Test
 ```
 npm install jasmine-node -g
 cd "absolute path of project's folder"

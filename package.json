@@ -1,5 +1,5 @@
 {
-  "name": "validate-types",
+  "name": "test-validate-types",
   "version": "1.0.0",
   "description": "simple function to validate types of variables",
   "main": "index.js",

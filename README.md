@@ -1,4 +1,4 @@
-# Validate-types
+# Validate-Types
 simple function to validate types of variables
 ## Example:
 `VALIDATE.toType(123) ==> "number"`

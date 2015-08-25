@@ -6,8 +6,8 @@
 ```sh
 npm install jasmine-node -g
 cd "absolute path of project's folder"
-type jasmine-node test/
 ```
+`type jasmine-node test/`
 OR 
 ```sh
 cd "absolute path of project's folder"

@@ -1,6 +1,6 @@
 # Validate-Types
 `simple function to validate types of variables`
-### Example:
+### Example
 `VALIDATE.toType(123) ==> "number"`
 ### Run Test
 ```

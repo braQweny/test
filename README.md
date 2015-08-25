@@ -8,7 +8,7 @@ $ npm install jasmine-node -g
 $ cd "absolute path of project's folder"
 $ jasmine-node test/
 ```
-OR 
+**OR** 
 ``` sh
 $ cd "absolute path of project's folder"
 $ npm install 

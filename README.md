@@ -1,5 +1,5 @@
 # Validate-Types
-`simple function to validate types of variables`
+simple function to validate types of variables
 ### Example
 `VALIDATE.toType(123) ==> "number"`
 ### Run Test
@@ -8,7 +8,7 @@ $ npm install jasmine-node -g
 $ cd "absolute path of project's folder"
 $ jasmine-node test/
 ```
-`OR` 
+OR 
 ``` sh
 $ cd "absolute path of project's folder"
 $ npm install 
